@@ -6,3 +6,5 @@
 ###### Header 6
 
 Example body text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
