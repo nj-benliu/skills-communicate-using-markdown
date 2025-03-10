@@ -12,3 +12,6 @@ Example body text
 ``` python
 print("Hello World")
 ```
+- [ ] Wake up
+- [ ] Eat breakfast
+- [ ] Go to lectures
